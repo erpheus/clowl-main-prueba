@@ -1,5 +1,5 @@
 <head>
-	<title>Clowl - Watch your cloud</title>
+	<title>Clowl</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<style>
 	#logo {
