@@ -11,6 +11,7 @@
 		display: table;
 		height:100%;
 		width:100%;
+		margin: 0px;
 	}
 	</style>
 </head>
@@ -18,5 +19,4 @@
 	<div id="logo">
 		<img src="images/clowl-nombre-512.png" />
 	</div>
-	<p align="center">Coming soon...</p>
 </body>
